@@ -218,7 +218,8 @@
 
 ### 프로젝트 형상 관리
 - Github Issue + Milestone + Project 사용
-<img width="1146" alt="project_configuration" src="https://user-images.githubusercontent.com/76257508/184299178-86279a70-695a-48e7-9caf-2ac0a6292aea.png">
+  <br>
+  <a href="https://github.com/orgs/prgrms-web-devcourse/projects/13">GitHub Project</a>
 
 ### CI/CD 파이프라인
 - Github Action 사용
