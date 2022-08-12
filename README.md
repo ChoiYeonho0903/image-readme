@@ -1,23 +1,25 @@
-# Team-03-LinkBook-BE
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/76257508/184318521-e86dfd02-5e1c-4daa-836b-cfa6548eb924.png"/>
-  <p>🔖 북마크 공유 사이트</p>
+  <p>🔖 <b>북마크 공유 사이트<b></p>
   <a href="https://linkbook.tk">🖋️ 링북 (Link-Book)</a>
   <br>
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Project Introduction-1877F2?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Presentation-EC1C24?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Presentation-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/></a>
 </div>
 
+<br>
+
 ## 🤲🏻 프로젝트 소개
-```
-북마크를 손쉽게 관리하고, 사람들과 공유하며, 내가 관심있을만한 북마크를 추천받을 수 있는 서비스
-```
-### 
+```북마크를 손쉽게 관리하고, 사람들과 공유하며, 내가 관심있을만한 북마크를 추천받을 수 있는 서비스```
+
 ### 구현 기능
 
-- JWT을 이용한 로컬 로그인
+- JWT을 통한 로그인
+- 폴더, 북마크 작성
+- 폴더 제목 검색
+- 태그 검색
+- 폴더 댓글 좋아요
 
 
 <br>
@@ -139,8 +141,11 @@
     <td>
        <img src="https://user-images.githubusercontent.com/76257508/184307814-684c586a-1aef-49ce-95aa-4db34096c803.png" width="100px" />
     </td>
-     <td>
+    <td>
        <img src="https://user-images.githubusercontent.com/76257508/184315661-ac8c0b6a-82d3-44cd-ae5f-c80eea7d093a.png" width="100px" />
+    </td>
+    <td>
+       <img src="https://user-images.githubusercontent.com/76257508/184325541-2fee69ec-55da-4c76-92c3-77dbf555d976.png" width="100px" />
     </td>
   </tr>
   <tr>
@@ -148,6 +153,7 @@
     <td><b>Github Action</b></td>
     <td><b>AWS EC2</b></td>
     <td><b>AWS RDS</b></td>
+    <td><b>AWS S3</b></td>
   </tr>
 </table>
 
