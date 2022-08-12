@@ -1,6 +1,14 @@
 # Team-03-LinkBook-BE
 
-![link-book](https://user-images.githubusercontent.com/76257508/184318521-e86dfd02-5e1c-4daa-836b-cfa6548eb924.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/76257508/184318521-e86dfd02-5e1c-4daa-836b-cfa6548eb924.png"/>
+  <p>🔖 북마크 공유 사이트</p>
+  <a href="https://linkbook.tk">🖋️ 링북 (Link-Book)</a>
+  <br>
+  <br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Project Introduction-1877F2?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Presentation-EC1C24?style=for-the-badge&logo=Github&logoColor=white"/></a>
+</div>
 
 ## 🤲🏻 프로젝트 소개
 ```
@@ -211,7 +219,7 @@
 
 <br>
 
-## 커밋 메시지, PR 규칙
+## 📄 커밋 메시지, PR 규칙
 
 ### 커밋 메시지
 > Type
