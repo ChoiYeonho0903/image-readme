@@ -82,7 +82,7 @@
          <img src="https://user-images.githubusercontent.com/76257508/184301901-63ae039a-87d5-4313-a1ce-a4c90badc242.png" width="100px"/>
     </td>
     <td>
-        <img src="https://images.velog.io/images/leeseojune53/post/b6527e64-30c9-40d4-a955-ddbc647edec1/Gradle_logo.png" width="100px" />
+        <img src="https://user-images.githubusercontent.com/76257508/184334593-b33cdf77-10a0-4758-9248-6c3ed394ddba.png" width="100px" />
     </td>
     <td>
         <img src="https://user-images.githubusercontent.com/76257508/184303436-1f388f6f-897f-4305-9435-61edd9b67fea.png" width="100px" />
@@ -121,10 +121,14 @@
     <td>
         <img src="https://user-images.githubusercontent.com/76257508/184303203-e1589d74-9048-428c-a913-1058f268a69a.png" width="100px" />
     </td>
+    <td>
+        <img src="https://user-images.githubusercontent.com/76257508/184329344-b8e6ed86-2f04-4a2a-b27c-ce415fbf3a2f.png" width="100px" />
+    </td>
   </tr>
   <tr>
     <td><b>JUnit</b></td>
     <td><b>Mockito</b></td>
+    <td><b>Jacoco</b></td>
   </tr>
 </table>
 
@@ -147,6 +151,9 @@
     <td>
        <img src="https://user-images.githubusercontent.com/76257508/184325541-2fee69ec-55da-4c76-92c3-77dbf555d976.png" width="100px" />
     </td>
+    <td>
+       <img src="https://user-images.githubusercontent.com/76257508/184335495-e272475f-8222-4dfe-bbec-29bc1dbc33a3.png" width="100px" />
+    </td>
   </tr>
   <tr>
     <td><b>Docker</b></td>
@@ -154,6 +161,7 @@
     <td><b>AWS EC2</b></td>
     <td><b>AWS RDS</b></td>
     <td><b>AWS S3</b></td>
+    <td><b>Nginx</b></td>
   </tr>
 </table>
 
