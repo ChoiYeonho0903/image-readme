@@ -201,8 +201,7 @@
 <br>
 
 ## ☀️ ARCHITECTURE
-<img width="1049" alt="infra_structure" src="https://user-images.githubusercontent.com/76257508/184298185-698ea509-3ba0-4144-9d53-070faadc5cd0.png">
-
+<img width="1049" alt="infra_structure" src="https://user-images.githubusercontent.com/76257508/184414951-03fc5f7c-b7ee-4611-a875-935a477af654.png">
 
 ## 🖼 ERD
 ![erd](https://user-images.githubusercontent.com/76257508/184299245-d5d81642-1526-456d-a5c5-59034bf02f92.png)
