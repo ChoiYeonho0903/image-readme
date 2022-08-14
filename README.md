@@ -4,23 +4,25 @@
   <a href="https://linkbook.tk">🖋️ 링북 (Link-Book)</a>
   <br>
   <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Project Introduction-1877F2?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://backend-devcourse.notion.site/LINKBOOK-61a1bf987acc47a6872e21eb59794e3a" target="_blank"><img src="https://img.shields.io/badge/Project Introduction-1877F2?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Presentation-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/></a>
 </div>
 
 <br>
 
 ## 🤲🏻 프로젝트 소개
-```북마크를 손쉽게 관리하고, 사람들과 공유하며, 내가 관심있을만한 북마크를 추천받을 수 있는 서비스```
+:sparkles: 북마크를 손쉽게 관리하고, 사람들과 공유하며, 내가 관심있을만한 북마크를 추천받을 수 있는 서비스
+<br>
 
 ### 구현 기능
 
-- JWT을 통한 로그인
-- 폴더, 북마크 작성
-- 폴더 제목 검색
+- access-token, refresh-token 을 통한 로그인, 자동로그인
+- 북마크 폴더 생성, 수정, 삭제
+- 폴더 댓글, 좋아요.
+- 다른 사용자의 북마크 폴더 스크랩
+- 폴더 제목,본문 검색
 - 태그 검색
-- 폴더 댓글 좋아요
-
+- 인기순, 최신순, 오래된순 필터링
 
 <br>
 
@@ -88,13 +90,13 @@
         <img src="https://user-images.githubusercontent.com/76257508/184303436-1f388f6f-897f-4305-9435-61edd9b67fea.png" width="100px" />
     </td>
     <td>
-        <img src="https://user-images.githubusercontent.com/76257508/184302496-44109fa5-b95b-4044-8562-27608d4ea8d5.png" width="100px" />
+        <img src="https://user-images.githubusercontent.com/76257508/184528071-e11ac200-3b48-4bd8-aa1b-d3eb07dc812d.png" width="100px" />
     </td>
     <td>  
         <img src="https://user-images.githubusercontent.com/76257508/184309540-f9438159-5936-4c14-af39-84913c9d751f.png" width="100px" />
     </td>
     <td>  
-        <img src="https://user-images.githubusercontent.com/76257508/184309618-4677c412-cd2e-470a-931e-28ba10a3f63b.png" width="100px" />
+        <img src="https://user-images.githubusercontent.com/76257508/184528041-b62bdb3c-481d-4751-9e57-f16a8e9f6434.png" width="100px" />
     </td>
     <td>
         <img src="https://user-images.githubusercontent.com/76257508/184302416-34ad1a13-b691-4617-adff-8dcf917354e0.png" width="100px" />
