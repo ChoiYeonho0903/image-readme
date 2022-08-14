@@ -148,7 +148,7 @@
        <img src="https://user-images.githubusercontent.com/76257508/184307814-684c586a-1aef-49ce-95aa-4db34096c803.png" width="100px" />
     </td>
     <td>
-       <img src="https://user-images.githubusercontent.com/76257508/184315661-ac8c0b6a-82d3-44cd-ae5f-c80eea7d093a.png" width="100px" />
+       <img src="https://user-images.githubusercontent.com/76257508/184528264-cae6aac9-b533-41cb-b93a-8542370124ca.png" width="100px" />
     </td>
     <td>
        <img src="https://user-images.githubusercontent.com/76257508/184325541-2fee69ec-55da-4c76-92c3-77dbf555d976.png" width="100px" />
